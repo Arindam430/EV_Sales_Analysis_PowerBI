@@ -75,7 +75,7 @@ Imported three CSV files from SharePoint directly into PowerBI using the require
     <img src='https://github.com/Arindam430/EV_Sales_Analysis_PowerBI/blob/main/Resources/3.%20States%20Page.gif' width="600">
 </p>
 
-## 🏙️ Statewise Comparison Page
+## 🌍 Statewise Comparison Page
 
 <p align="center">
     <img src='https://github.com/Arindam430/EV_Sales_Analysis_PowerBI/blob/main/Resources/4.%20Statewise%20Comparison%20Page.gif' width="600">
