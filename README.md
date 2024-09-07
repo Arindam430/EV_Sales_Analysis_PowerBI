@@ -31,17 +31,22 @@ Understanding the available data is crucial before analysis. Here's a breakdown:
 - 👥 `fiscal_year`: Since the company's fiscal year starts in April, the fiscal years listed are from 2022 to 2024.
 - 📅 `quarter`: Corresponds to the fiscal years' quarters.
 
+
 ### Electric Vehicle Sales by State
 
-- 🗓️ **Date**: The date on which the data was recorded (Format: DD-MMM-YY). Data is recorded monthly.
-- 🏙️ **State**: The name of the state where the sales data is recorded, representing the geographical location within India.
-- 🚗 **Vehicle Category**: Indicates whether the vehicle is a 2-Wheeler or a 4-Wheeler.
-- 🔋 **Electric Vehicles Sold**: The number of electric vehicles sold in the specified state and category on the given date.
-- 📊 **Total Vehicles Sold**: The total number of vehicles (both electric and non-electric) sold in the specified state and category on the given date.
+- 🗓️ `Date`: The date on which the data was recorded (Format: DD-MMM-YY). Data is recorded monthly.
+- 🏙️ `State`: The name of the state where the sales data is recorded, representing the geographical location within India.
+- 🚗 `vehicle_category`: Indicates whether the vehicle is a 2-Wheeler or a 4-Wheeler.
+- 🔋 `electric_vehicles_sold`: The number of electric vehicles sold in the specified state and category on the given date.
+- 📊 `total_vehicles_sold`: The total number of vehicles (both electric and non-electric) sold in the specified state and category on the given date.
 
 ### Electric Vehicle Sales by Makers
 
-- 🗓️ **Date**: The date on which the sales data was recorded (Format: DD-MMM-YY). Data is recorded monthly.
-- 🚗 **Vehicle Category**: Indicates whether the vehicle is a 2-Wheeler or a 4-Wheeler.
-- 🏭 **Maker**: The name of the manufacturer or brand of the electric vehicle.
-- 🔋 **Electric Vehicles Sold**: The number of electric vehicles sold by the specified maker in the given category on the given date.
+- 🗓️ `Date`: The date on which the sales data was recorded (Format: DD-MMM-YY). Data is recorded monthly.
+- 🚗 `Vehicle Category`: Indicates whether the vehicle is a 2-Wheeler or a 4-Wheeler.
+- 🏭 `Maker`: The name of the manufacturer or brand of the electric vehicle.
+- 🔋 `Electric Vehicles Sold`: The number of electric vehicles sold by the specified maker in the given category on the given date.
+
+## 📥 Importing Data into PowerBI
+
+Imported three CSV files from SharePoint directly into PowerBI using the required account credentials.
