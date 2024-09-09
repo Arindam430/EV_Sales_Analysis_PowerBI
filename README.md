@@ -57,7 +57,9 @@ Understanding the available data is crucial before analysis. Here's a breakdown:
 
 - 📈 **CAGR (Compound Annual Growth Rate)**: CAGR measures the average annual growth rate over a specified period longer than one year. It is calculated as:
 
-    $$ \text{CAGR} = \left(\frac{\text{LastYearEVSales}}{\text{FirstYearEVSales}}\right)^{\frac{1}{\text{NumberOfYears}}} - 1 $$
+    $$ 
+	\text{CAGR} = \left(\frac{\text{LastYearEVSales}}{\text{FirstYearEVSales}}\right)^{\frac{1}{\text{NumberOfYears}}} - 1
+	$$
 
 
 - ##### 🔄 **Penetration Rate Change from 2022 to 2024**:
