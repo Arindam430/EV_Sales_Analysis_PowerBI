@@ -58,7 +58,7 @@ Understanding the available data is crucial before analysis. Here's a breakdown:
     <img src='https://github.com/Arindam430/EV_Sales_Analysis_PowerBI/blob/main/Resources/CAGR%20Formula.png' height="75">
 </p>
 
-- ### <u>**Penetration Rate Change from 2022 to 2024**</u>:
+- ##### **Penetration Rate Change from 2022 to 2024**:
     - [x] `Absolute Change` - Subtracting one value from another gives the absolute change, providing a straightforward comparison in percentage points. It is calculated as:
         <p align="center">
             <img src='https://github.com/Arindam430/EV_Sales_Analysis_PowerBI/blob/main/Resources/Absolute%20Change%20Formula.png' height="40">
