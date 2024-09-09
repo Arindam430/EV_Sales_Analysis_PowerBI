@@ -47,6 +47,12 @@ Understanding the available data is crucial before analysis. Here's a breakdown:
 - 🏭 `Maker`: The name of the manufacturer or brand of the electric vehicle.
 - 🔋 `Electric Vehicles Sold`: The number of electric vehicles sold by the specified maker in the given category on the given date.
 
+### Additional Calculated Metrics:
+- `Penetration Rate`: This metric represents the percentage of total vehicles that are electric within a specific region or category. It is calculated as:
+<p align="center">
+    <img src='https://github.com/Arindam430/EV_Sales_Analysis_PowerBI/blob/main/Resources/Penetration%20Rate%20Formula.png' height="100">
+</p>
+
 ### 📥 Importing Data into PowerBI
 
 Imported three CSV files from SharePoint directly into PowerBI using the required account credentials.
