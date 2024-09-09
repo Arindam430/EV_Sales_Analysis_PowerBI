@@ -121,9 +121,8 @@ Three CSV files were imported directly from SharePoint into Power BI using the r
 - Tata Motors has been the top seller in 4-wheeler EV sales every quarter from 2022 to 2024.
 - The CAGR is highest for BMW India from 2022-24 in the 4-Wheelers category (1141%).
 - Meghalaya has the highest CAGR among all states (28.47%).
-- Maharashtra leads in both EV sales and the number of operational public charging stations, highlighting its robust infrastructure support for electric vehicles.
 - Gujarat, Delhi, and Maharashtra are the states providing the most subsidies.
-- Not only does Maharashtra offer substantial incentives for charging infrastructure, but it also has the highest number of public charging stations available. This makes it the ideal state for AtliQ Motors to start building their manufacturing unit.
+- Not only does Maharashtra lead in both EV sales and the number of operational public charging stations, but it also provides substantial incentives for charging infrastructure, highlighting its robust support for electric vehicles. This makes it the ideal state for AtliQ Motors to start building their manufacturing unit.
 - The Indian government provides various subsidies and rebates to reduce the purchase cost of EVs, making them more affordable for consumers.
 - Apart from Gujarat, Delhi, Maharashtra, Meghalaya, Assam, and Kerala provide 100% Road Tax Exemption.
 - Maharashtra has higher projected sales in 2030 in the 2-wheelers category, but Karnataka has higher projected sales in the 4-wheelers category.
