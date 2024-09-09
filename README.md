@@ -55,18 +55,18 @@ Understanding the available data is crucial before analysis. Here's a breakdown:
 
 - `CAGR (Compounded Annual Growth Rate)`: CAGR measures the average annual growth rate over a specified period longer than one year. It is calculated as:
 <p align="center">
-    <img src='https://github.com/Arindam430/EV_Sales_Analysis_PowerBI/blob/main/Resources/CAGR%20Formula.png' height="50">
+    <img src='https://github.com/Arindam430/EV_Sales_Analysis_PowerBI/blob/main/Resources/CAGR%20Formula.png' height="120">
 </p>
 
--  ##### <u>Penetration Rate Change from year 2022 to 2024</b>:
- - [x] `Absolute Change` - Subtracting one value from another gives the absolute change, which provides a straightforward comparison in percentage points. It is calculated as:
-	<p align="center">
-		<img src='https://github.com/Arindam430/EV_Sales_Analysis_PowerBI/blob/main/Resources/Absolute%20Change%20Formula.png' height="50">
-	</p>
- - [x] `Relative Change` - Dividing one value by the other gives the relative change, offering insight into how significant the change is compared to the initial value, which can be more insightful in certain analyses.
-	<p align="center">
-		<img src='https://github.com/Arindam430/EV_Sales_Analysis_PowerBI/blob/main/Resources/Relative%20Change%20Formula.png' height="50">
-	</p>
+- ### <u>Penetration Rate Change from 2022 to 2024</u>:
+    - [x] **Absolute Change** - Subtracting one value from another gives the absolute change, providing a straightforward comparison in percentage points. It is calculated as:
+        <p align="center">
+            <img src='https://github.com/Arindam430/EV_Sales_Analysis_PowerBI/blob/main/Resources/Absolute%20Change%20Formula.png' height="30">
+        </p>
+    - [x] **Relative Change** - Dividing one value by the other gives the relative change, offering insight into how significant the change is compared to the initial value, which can be more insightful in certain analyses. It is calculated as:
+        <p align="center">
+            <img src='https://github.com/Arindam430/EV_Sales_Analysis_PowerBI/blob/main/Resources/Relative%20Change%20Formula.png' height="120">
+        </p>
 	
 ### 📥 Importing Data into PowerBI
 
