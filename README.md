@@ -63,17 +63,17 @@ $$
 
 🔄 **Penetration Rate Change from 2022 to 2024**:
 
-> 🧮 **Absolute Change** - Subtracting one value from another gives the absolute change, providing a straightforward comparison in percentage points. It is calculated as:
-> 
-> $$
-> AbsoluteChange = PenetrationRate_{2024} - PenetrationRate_{2022}
-> $$
+> **Absolute Change** - Subtracting one value from another gives the absolute change, providing a straightforward comparison in percentage points. It is calculated as:
 
-> 📊 **Relative Change** - Dividing one value by the other gives the relative change, offering insight into how significant the change is compared to the initial value. It is calculated as:
-> 
-> $$
-> \left(\frac{PenetrationRate_{2024} - PenetrationRate_{2022}}{PenetrationRate_{2022}}\right) \times 100
-> $$
+$$
+AbsoluteChange = PenetrationRate_{2024} - PenetrationRate_{2022}
+$$
+
+> **Relative Change** - Dividing one value by the other gives the relative change, offering insight into how significant the change is compared to the initial value. It is calculated as:
+
+$$
+\left(\frac{PenetrationRate_{2024} - PenetrationRate_{2022}}{PenetrationRate_{2022}}\right) \times 100
+$$
 
 ## 📥 Importing Data into PowerBI
 
