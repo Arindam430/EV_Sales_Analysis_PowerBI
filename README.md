@@ -65,7 +65,7 @@ Understanding the available data is crucial before analysis. Here's a breakdown:
         </p>
     - [x] **Relative Change** - Dividing one value by the other gives the relative change, offering insight into how significant the change is compared to the initial value, which can be more insightful in certain analyses. It is calculated as:
         <p align="center">
-            <img src='https://github.com/Arindam430/EV_Sales_Analysis_PowerBI/blob/main/Resources/Relative%20Change%20Formula.png' height="80">
+            <img src='https://github.com/Arindam430/EV_Sales_Analysis_PowerBI/blob/main/Resources/Relative%20Change%20Formula.png' height="70">
         </p>
 	
 ### 📥 Importing Data into PowerBI
