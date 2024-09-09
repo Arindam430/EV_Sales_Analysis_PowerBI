@@ -54,13 +54,11 @@ Understanding the available data is crucial before analysis. Here's a breakdown:
     \text{PenetrationRate} = \left(\frac{\text{ElectricVehiclesSold}}{\text{TotalVehiclesSold}}\right) \times 100
     $$
 
-
 - 📈 **CAGR (Compound Annual Growth Rate)**: CAGR measures the average annual growth rate over a specified period longer than one year. It is calculated as:
 
-    $$ 
-	\text{CAGR} = \left(\frac{\text{LastYearEVSales}}{\text{FirstYearEVSales}}\right)^{\frac{1}{\text{NumberOfYears}}} - 1
-	$$
-
+    $$
+    \text{CAGR} = \left(\frac{\text{LastYearEVSales}}{\text{FirstYearEVSales}}\right)^{\frac{1}{\text{NumberOfYears}}} - 1
+    $$
 
 - ##### 🔄 **Penetration Rate Change from 2022 to 2024**:
     - [x] 🧮 **Absolute Change** - Subtracting one value from another gives the absolute change, providing a straightforward comparison in percentage points. It is calculated as:
@@ -69,13 +67,11 @@ Understanding the available data is crucial before analysis. Here's a breakdown:
         \text{AbsoluteChange} = \text{PenetrationRate}_{2024} - \text{PenetrationRate}_{2022}
         $$
 
-
     - [x] 📊 **Relative Change** - Dividing one value by the other gives the relative change, offering insight into how significant the change is compared to the initial value. It is calculated as:
 
         $$
         \text{RelativeChange} = \left(\frac{\text{PenetrationRate}_{2024} - \text{PenetrationRate}_{2022}}{\text{PenetrationRate}_{2022}}\right) \times 100
         $$
-
 
 ## 📥 Importing Data into PowerBI
 
