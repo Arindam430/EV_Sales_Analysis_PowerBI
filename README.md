@@ -50,7 +50,7 @@ Understanding the available data is crucial before analysis. Here's a breakdown:
 ### Additional Calculated Metrics:
 - `Penetration Rate`: This metric represents the percentage of total vehicles that are electric within a specific region or category. It is calculated as:
 <p align="center">
-    <img src='https://github.com/Arindam430/EV_Sales_Analysis_PowerBI/blob/main/Resources/Penetration%20Rate%20Formula.png' height="100">
+    <img src='https://github.com/Arindam430/EV_Sales_Analysis_PowerBI/blob/main/Resources/Penetration%20Rate%20Formula.png' height="50">
 </p>
 
 ### 📥 Importing Data into PowerBI
