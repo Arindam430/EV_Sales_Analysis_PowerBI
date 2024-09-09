@@ -48,14 +48,29 @@ Understanding the available data is crucial before analysis. Here's a breakdown:
 - 🔋 `Electric Vehicles Sold`: The number of electric vehicles sold by the specified maker in the given category on the given date.
 
 ### Additional Calculated Metrics:
-- `Penetration Rate`: This metric represents the percentage of total vehicles that are electric within a specific region or category. It is calculated as:
+- `Penetration Rate`: This metric represents the percentage of total vehicles that are electric within a specific region or category, indicating the adoption level of electric vehicles. It is calculated as:
 <p align="center">
     <img src='https://github.com/Arindam430/EV_Sales_Analysis_PowerBI/blob/main/Resources/Penetration%20Rate%20Formula.png' height="50">
 </p>
 
+- `CAGR (Compounded Annual Growth Rate)`: CAGR measures the average annual growth rate over a specified period longer than one year. It is calculated as:
+<p align="center">
+    <img src='https://github.com/Arindam430/EV_Sales_Analysis_PowerBI/blob/main/Resources/CAGR%20Formula.png' height="50">
+</p>
+
+-  ##### <u>Penetration Rate Change from year 2022 to 2024</b>:
+ - [x] `Absolute Change` - Subtracting one value from another gives the absolute change, which provides a straightforward comparison in percentage points. It is calculated as:
+	<p align="center">
+		<img src='https://github.com/Arindam430/EV_Sales_Analysis_PowerBI/blob/main/Resources/Absolute%20Change%20Formula.png' height="50">
+	</p>
+ - [x] `Relative Change` - Dividing one value by the other gives the relative change, offering insight into how significant the change is compared to the initial value, which can be more insightful in certain analyses.
+	<p align="center">
+		<img src='https://github.com/Arindam430/EV_Sales_Analysis_PowerBI/blob/main/Resources/Relative%20Change%20Formula.png' height="50">
+	</p>
+	
 ### 📥 Importing Data into PowerBI
 
-Imported three CSV files from SharePoint directly into PowerBI using the required account credentials.
+Three CSV files were imported directly from SharePoint into Power BI using the required account credentials. Additional datasets, such as charging data, were later added through the same method.
 
 ## 🗂️ Data Model
 
