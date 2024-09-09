@@ -10,7 +10,7 @@ As part of the Codebasics Monthly Resume Challenge #12, I worked on this Electri
 
 AtliQ Motors, a prominent automotive leader from the USA specializing in electric vehicles, has seen its market share in North America's electric and hybrid vehicle segment grow to 25% over the past five years. As part of its global expansion, the company aims to introduce its top-selling models in India, where its current market share is below 2%. To support this initiative, AtliQ Motors conducted an in-depth study of the existing EV and hybrid vehicle market in India.
 
-### 📋 Task List
+## 📋 Task List
 
 As a data analyst, I was provided with sample data and a PDF containing primary and secondary business questions. My task was to complete the following:
 
@@ -18,7 +18,7 @@ As a data analyst, I was provided with sample data and a PDF containing primary 
 - Create a dashboard following the stakeholder mock-up, ensuring it is self-explanatory and easy to understand.
 - Generate additional insights beyond the provided metrics and mock-up. I could incorporate additional data from my own research to support my recommendations.
 
-### 🗄️ Dataset Understanding
+## 🗄️ Dataset Understanding
 
 Understanding the available data is crucial before analysis. Here's a breakdown:
 
@@ -47,7 +47,7 @@ Understanding the available data is crucial before analysis. Here's a breakdown:
 - 🏭 `Maker`: The name of the manufacturer or brand of the electric vehicle.
 - 🔋 `Electric Vehicles Sold`: The number of electric vehicles sold by the specified maker in the given category on the given date.
 
-### 🧠 Additional Calculated Metrics:
+## 🧠 Additional Calculated Metrics:
 - 🚗 `Penetration Rate`: This metric represents the percentage of total vehicles that are electric within a specific region or category, indicating the adoption level of electric vehicles. It is calculated as:
 <p align="center">
     <img src='https://github.com/Arindam430/EV_Sales_Analysis_PowerBI/blob/main/Resources/Penetration%20Rate%20Formula.png' height="50">
@@ -68,7 +68,7 @@ Understanding the available data is crucial before analysis. Here's a breakdown:
             <img src='https://github.com/Arindam430/EV_Sales_Analysis_PowerBI/blob/main/Resources/Relative%20Change%20Formula.png' height="65">
         </p>
 	
-### 📥 Importing Data into PowerBI
+## 📥 Importing Data into PowerBI
 
 Three CSV files were imported directly from SharePoint into Power BI using the required account credentials. Additional datasets, such as charging data, were later added through the same method.
 
