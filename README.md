@@ -5,6 +5,7 @@ As part of the Codebasics Monthly Resume Challenge #12, I worked on this Electri
 📌 [Challenge Link](https://codebasics.io/challenge/codebasics-resume-project-challenge)  
 📊 [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTBkNmY2OTgtZjE3MS00M2UxLWEyYjMtNTQ0Y2IzOTkwNjdhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 🔗 [LinkedIn Post](https://www.linkedin.com/posts/arindam430_electric-vehicle-sales-analysis-activity-7237154748016013315-mLLI?utm_source=share&utm_medium=member_desktop)
+🎥 [Video Presentation](https://youtu.be/L41LGK68HMU)
 
 ## 📝 Problem Statement
 
